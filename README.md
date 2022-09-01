@@ -10,8 +10,8 @@ With the development of space-based imaging technology, a larger and larger numb
 <br>
 <br>
 ***Usage***<br>
-The implementation code of the proposed method consists of two parts:***deep translation*** and ***Change detection*** <br>
-First, you should run ***deep translation*** folder. deep translation is the code of deep migration, and the input data need to cut the image into small pictures to build samples<br>
+The implementation code of the proposed method consists of two parts:***Deep translation*** and ***Change detection*** <br>
+First, you should run ***Deep translation*** folder. deep translation is the code of deep migration, and the input data need to cut the image into small pictures to build samples<br>
 Second, ***Change detection*** floder is to use the migrated image for Change detection. The example data given here is Gloucester-SAR, but without data enhancement<br>
 
 
