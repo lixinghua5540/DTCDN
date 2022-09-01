@@ -1,0 +1,2 @@
+其中deep translation中是深度迁移的代码，输入数据需要将影像裁剪为小图片以构建样本
+Change detection则是将迁移后的影像用以变化检测，这里给出的示例数据为gloucester-sar，但是没有经过数据增强
