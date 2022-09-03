@@ -1,5 +1,7 @@
 # DTCDN
 Title: *A deep translation (GAN) based change detection network for optical and SAR remote sensing images* [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271621001842)<br>
+
+X. Li, Z. Du, Y. Huang, and Z. Tan, “A deep translation (GAN) based change detection network for optical and SAR remote sensing images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 179, pp. 14-34, September, 2021.
 <br>
 <br>
 ***Introduction***<br>
